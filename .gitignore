@@ -1,0 +1,20 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Cloudflare portable binary
+cloudflared.exe
+
+# OS & Environment
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db

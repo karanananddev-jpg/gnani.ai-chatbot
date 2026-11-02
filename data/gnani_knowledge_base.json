@@ -1,0 +1,122 @@
+[
+  {
+    "id": "gnani-all-products",
+    "title": "Gnani.ai Product Suite - Overview of All Products, Solutions & Offerings",
+    "url": "https://www.gnani.ai/products/",
+    "category": "Products",
+    "content": "Gnani.ai offers a comprehensive suite of enterprise-grade Voice AI and Conversational AI products: 1. Inya Workforce (Automate365): Autonomous conversational voice bots and omnichannel chat agents for 24/7 customer care, lead qualification, debt collection, and sales across telephony, WhatsApp, web, and SMS. 2. Inya Assist (Assist365): Real-time AI agent copilot for contact centers providing live call transcription, contextual knowledge retrieval, guided scripts, and automated post-call CRM note generation. 3. Inya Shield (Armour365™): Patented voice biometrics and authentication software extracting over 300 voice acoustic features within 3-5 seconds, featuring cross-lingual verification and anti-spoofing liveness protection against synthetic deepfakes. 4. Inya Insights (Aura365™): Omnichannel speech analytics and automated Quality Assurance (QA) platform auditing 100% of customer interactions for sentiment, compliance, and churn risk. 5. Inya DIY: No-code/low-code workflow studio allowing enterprises to design and deploy conversational agents across channels without programming. 6. Prisma STT (ASR): Enterprise speech-to-text engine supporting 40+ global and Indic languages trained on 14+ million hours of audio. 7. Timbre TTS: Ultra-low-latency neural text-to-speech voice synthesis with expressive personas (Pranav, Kaveri, Shubhra). 8. Vachana Indic SLMs & LLMs: Domain-tuned Small Language Models tailored for vernacular dialects and code-switching."
+  },
+  {
+    "id": "gnani-overview",
+    "title": "About Gnani.ai - Overview & Company Background",
+    "url": "https://www.gnani.ai/about-us/",
+    "category": "Company",
+    "content": "Gnani.ai (Gnani Innovations Private Limited) is a premier deep-tech conversational and voice AI company founded in 2016. The company is headquartered in Bengaluru, Karnataka, India (Number 94, 3rd Floor, Lamora Cube, R.V. Road, Basavanagudi, Bengaluru 560004), with operations and corporate presence in the United States. Gnani.ai was co-founded by Ganesh Gopalan (CEO) and Ananth Nagaraj (CTO), both former senior technologists at Texas Instruments who sought to address complex, localized speech recognition and multilingual voice automation challenges. Backed by strategic investors including Samsung Ventures, Gnani.ai delivers end-to-end conversational AI infrastructure, powering customer experience (CX) automation for more than 200 enterprises globally across BFSI, telecom, healthcare, and consumer technology sectors."
+  },
+  {
+    "id": "gnani-leadership",
+    "title": "Leadership and Mission",
+    "url": "https://www.gnani.ai/about-us/",
+    "category": "Company",
+    "content": "Ganesh Gopalan serves as Co-founder and Chief Executive Officer (CEO), bringing extensive leadership in business strategy, product commercialization, and marketing from Texas Instruments and IBM. Ananth Nagaraj serves as Co-founder and Chief Technology Officer (CTO), an authority in signal processing, acoustics, machine learning, and embedded architectures. Gnani.ai's mission is to democratize voice-first artificial intelligence for global and emerging markets, enabling seamless, natural enterprise-customer interactions in regional languages and colloquial dialects without the friction of conventional text menus or rigid IVR trees."
+  },
+  {
+    "id": "inya-workforce",
+    "title": "Inya Workforce - Omnichannel Conversational Voice and Chat Bots",
+    "url": "https://www.gnani.ai/products/voice-bot/",
+    "category": "Products",
+    "content": "Inya Workforce (part of Automate365) provides 24/7 autonomous conversational voice bots and omnichannel chat agents designed for high-scale enterprise customer service, sales conversions, and collections. Powered by Gnani.ai's proprietary voice-to-voice architecture, Inya Workforce handles multi-turn conversations with ultra-low latency, natural turn-taking, and contextual memory. The agents natively support code-switching (such as Hinglish, Tanglish, and local vernacular dialects) and run across channels including telephony (inbound/outbound phone calls), WhatsApp, SMS, web chat, and mobile applications."
+  },
+  {
+    "id": "inya-assist",
+    "title": "Inya Assist - Real-Time Contact Center Agent Copilot (Assist365)",
+    "url": "https://www.gnani.ai/products/agent-assist/",
+    "category": "Products",
+    "content": "Inya Assist (Assist365) is an AI-powered real-time copilot for human contact center agents. As human agents converse with customers on live calls, Inya Assist transcribes the dialogue in real time, surfaces contextual knowledge articles, suggests next-best actions and approved objection-handling scripts, and automatically generates structured post-call summaries and CRM notes. Inya Assist cuts Average Handling Time (AHT) by up to 30%, elevates First Contact Resolution (FCR), and eliminates manual after-call documentation work."
+  },
+  {
+    "id": "inya-shield-armour365",
+    "title": "Inya Shield / Armour365 - Voice Biometrics and Authentication",
+    "url": "https://www.gnani.ai/products/voice-biometrics/",
+    "category": "Products",
+    "content": "Inya Shield (Armour365™) is Gnani.ai's patented voice biometrics platform that authenticates customers securely using their unique voiceprints. It extracts over 300 physiological and behavioral voice acoustic parameters within 3 to 5 seconds. Armour365 supports both active verification (passphrase-based) and passive verification (seamless background verification during natural conversation). Crucially, it features cross-lingual authentication—enabling a customer who registered in Hindi to be authenticated when speaking English. It features advanced anti-spoofing and liveness detection algorithms that detect and block synthetic voices, deepfakes, and recorded replays to prevent fraud in banking and financial transactions."
+  },
+  {
+    "id": "inya-insights-aura365",
+    "title": "Inya Insights / Aura365 - Omnichannel Speech Analytics & Automated QA",
+    "url": "https://www.gnani.ai/products/speech-analytics/",
+    "category": "Products",
+    "content": "Inya Insights (Aura365) is an agentic conversational analytics and automated Quality Assurance (QA) solution. Rather than auditing a 2% sample of calls like legacy quality teams, Aura365 audits 100% of customer interactions across voice and digital channels. It evaluates agent compliance, script adherence, customer sentiment, call dead-air, talk-to-listen ratios, and customer churn risk indicators. The platform features intuitive dashboards for contact center supervisors, providing root-cause analysis on caller dissatisfaction and identifying upsell opportunities."
+  },
+  {
+    "id": "inya-diy",
+    "title": "Inya DIY - No-Code Conversational Workflow Studio",
+    "url": "https://www.gnani.ai/products/no-code-platform/",
+    "category": "Products",
+    "content": "Inya DIY is a no-code/low-code development platform that allows business analysts and developers to design, simulate, and deploy sophisticated conversational voice and chat agents within days. It provides drag-and-drop conversational flow builders, pre-built enterprise intent templates, multilingual entity extractors, webhook connectors for external APIs/databases, and one-click deployment across IVR, web, and messaging platforms."
+  },
+  {
+    "id": "prisma-stt",
+    "title": "Prisma Series - Automatic Speech Recognition (STT / ASR)",
+    "url": "https://www.gnani.ai/technology/speech-to-text/",
+    "category": "Technology",
+    "content": "Gnani.ai's Prisma STT (including Prisma v2.5 and v3.0) is a proprietary enterprise speech-to-text engine trained on over 14 million hours of Indic and accented conversational audio. Engineered specifically for challenging telephonic acoustics (8 kHz narrowband and 16 kHz wideband), Prisma delivers industry-leading Word Error Rates (WER) across 40+ languages and dialects including Hindi, Tamil, Telugu, Kannada, Marathi, Bengali, Gujarati, Malayalam, and Indian English. Prisma supports real-time streaming over WebSockets as well as high-throughput batch transcription."
+  },
+  {
+    "id": "timbre-tts",
+    "title": "Timbre Series - Text-to-Speech (TTS)",
+    "url": "https://www.gnani.ai/technology/text-to-speech/",
+    "category": "Technology",
+    "content": "Timbre (including Timbre v2.0 and v2.5) is Gnani.ai's proprietary neural text-to-speech engine that converts text into ultra-low-latency, expressive, human-like voice synthesis. Timbre provides diverse lifelike synthetic personas (such as Pranav, Kaveri, Shubhra, and Deepak) tailored for brand identities. It handles complex pronunciation rules, acronyms, monetary denominations, currency names, and multilingual code-switched phrasing with natural pauses and empathetic intonation."
+  },
+  {
+    "id": "vachana-slm-llm",
+    "title": "Vachana & Inya Voice OS - Indic LLMs and Small Language Models",
+    "url": "https://www.gnani.ai/technology/indic-llm/",
+    "category": "Technology",
+    "content": "Vachana is Gnani.ai's family of domain-tuned Indic Small Language Models (SLMs) and foundational voice-to-voice architectures. Built to overcome the limitations of generic Western LLMs, Vachana understands localized cultural idioms, regional phrasing, and mixed vernacular dialogues. By unifying speech understanding and conversational reasoning directly into voice-to-voice pipelines, Gnani.ai eliminates cascading latency and delivers instantaneous response times in customer service interactions."
+  },
+  {
+    "id": "industry-bfsi",
+    "title": "Solutions for Banking, Financial Services, and Insurance (BFSI)",
+    "url": "https://www.gnani.ai/solutions/bfsi/",
+    "category": "Solutions",
+    "content": "Gnani.ai provides tailored BFSI solutions including automated debt collections voice bots, instant loan application assistants, KYC verification, policy renewal reminders, and credit card balance inquiries. Armour365 voice biometrics enables frictionless, secure authentication on banking calls, cutting verification time from minutes to under 5 seconds while eliminating password or OTP theft risks. The platform is compliant with PCI-DSS, RBI guidelines, and financial data isolation mandates."
+  },
+  {
+    "id": "industry-telecom",
+    "title": "Solutions for Telecom and Utilities",
+    "url": "https://www.gnani.ai/solutions/telecom/",
+    "category": "Solutions",
+    "content": "In telecommunications, Gnani.ai automates millions of customer inquiries daily for leading operators. Use cases include prepaid plan recharges, SIM activations, broadband outage troubleshooting, bill explanations, and value-added service management. With native support for 12+ Indic languages and rural dialects, Gnani.ai empowers telecom providers to deliver equitable customer self-service to tier-2, tier-3, and rural subscribers without language barriers."
+  },
+  {
+    "id": "industry-healthcare-ecommerce",
+    "title": "Solutions for Healthcare, E-Commerce, and Automotive",
+    "url": "https://www.gnani.ai/solutions/",
+    "category": "Solutions",
+    "content": "For Healthcare, Gnani.ai enables automated patient appointment scheduling, telemedicine triage, lab report dispatch, and doctor speech-to-text dictation. For E-Commerce and Retail, bots automate order tracking, delivery address confirmation, return requests, and post-purchase feedback. For Automotive, Gnani.ai's edge speech models power in-cabin voice commands and connected vehicle infotainment systems."
+  },
+  {
+    "id": "security-compliance",
+    "title": "Enterprise Security, Compliance, and Deployment Models",
+    "url": "https://www.gnani.ai/security-compliance/",
+    "category": "Security & Architecture",
+    "content": "Gnani.ai is built for mission-critical enterprise environments with ISO 27001 and SOC 2 Type II certifications. It complies with GDPR, HIPAA, and PCI-DSS data privacy standards. Deployments can be hosted on Gnani.ai Cloud (SaaS), customer's Virtual Private Cloud (AWS, Azure, Google Cloud), or fully On-Premise in air-gapped data centers for defense or strict sovereign data residency requirements. The platform includes automated PII masking, role-based access control (RBAC), end-to-end TLS 1.3 encryption, and AES-256 data encryption at rest."
+  },
+  {
+    "id": "integrations-telephony",
+    "title": "Enterprise Integrations and Telephony Compatibility",
+    "url": "https://www.gnani.ai/integrations/",
+    "category": "Integrations",
+    "content": "Gnani.ai seamlessly connects with enterprise contact center (CCaaS) and PBX telephony platforms including Genesys, Cisco, Avaya, Asterisk, Twilio, Amazon Connect, and NICE inContact via SIP trunking and WebSockets. It also provides pre-built bidirectional connectors for CRM and helpdesk systems including Salesforce, Microsoft Dynamics, LeadSquared, Zendesk, Zoho, and Freshdesk, ensuring real-time bidirectional synchronization with customer records."
+  },
+  {
+    "id": "contact-and-demo",
+    "title": "Contact Gnani.ai, Demos, and Inquiries",
+    "url": "https://www.gnani.ai/contact-us/",
+    "category": "Contact",
+    "content": "To request an enterprise demo or consult Gnani.ai AI specialists, organizations can visit https://www.gnani.ai/contact-us/ or email sales@gnani.ai. For partnerships, press, or career inquiries, reach out to info@gnani.ai or careers@gnani.ai. Physical headquarters: Number 94, 3rd Floor, Lamora Cube, R.V. Road, Basavanagudi, Bengaluru, Karnataka 560004, India."
+  }
+]
+
