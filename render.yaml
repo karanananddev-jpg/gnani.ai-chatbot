@@ -11,4 +11,5 @@ services:
         value: 0.0.0.0
       - key: DEBUG
         value: false
-
+      - key: GEMINI_API_KEY
+        sync: false
