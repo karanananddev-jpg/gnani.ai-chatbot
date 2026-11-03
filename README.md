@@ -91,19 +91,13 @@ flowchart TD
 
 ## ⚡ Quick Start (Local Run)
 
-### Option A: Windows (1-Click)
+### Windows (1-Click)
 Double-click `run.bat` or run in terminal:
 ```cmd
 .\run.bat
 ```
 
-### Option B: Linux / macOS
-```bash
-chmod +x run.sh
-./run.sh
-```
-
-### Option C: Manual Setup
+### Manual Setup
 ```bash
 # 1. Create and activate virtual environment
 python -m venv venv
@@ -141,38 +135,11 @@ python -m tests.test_retrieval
 
 ## 🚢 Deployment Options
 
-### 1. Docker Deployment
-```bash
-# Build and run with Docker:
-docker build -t gnani-ai-chatbot .
-docker run -p 8000:8000 --name gnani-chatbot gnani-ai-chatbot
-
-# Or using Docker Compose:
-docker compose up -d
-```
-
-### 2. Deploy to Render (Free Cloud Hosting)
+### Deploy to Render (Free Cloud Hosting)
 1. Push this repository to GitHub.
 2. Sign in to [Render](https://render.com/) and click **New +** -> **Blueprint**.
 3. Select your repository (Render automatically reads `render.yaml`).
 4. Click **Apply**—your chatbot will be deployed with a live HTTPS URL in under 2 minutes!
-
-### 3. Deploy to Railway
-1. Sign in to [Railway.app](https://railway.app/).
-2. Click **New Project** -> **Deploy from GitHub repo**.
-3. Railway will detect the `Procfile` / `Dockerfile` and deploy automatically.
-
-### 4. Deploy to Google Cloud Run
-```bash
-gcloud builds submit --tag gcr.io/PROJECT_ID/gnani-chatbot
-gcloud run deploy gnani-chatbot \
-  --image gcr.io/PROJECT_ID/gnani-chatbot \
-  --platform managed \
-  --region us-central1 \
-  --allow-unauthenticated \
-  --port 8000
-```
-
 ---
 
 ## 📡 REST API Reference
